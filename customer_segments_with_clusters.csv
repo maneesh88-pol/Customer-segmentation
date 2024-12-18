@@ -1,0 +1,5 @@
+CustomerID,Recency,Frequency,Monetary,Cluster
+12345,1,2,650,1
+12346,3,1,150,0
+12347,2,1,300,0
+12348,0,1,100,2
